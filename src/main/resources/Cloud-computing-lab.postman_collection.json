@@ -15,10 +15,10 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "https://spring-boot-rest-api-1060482787831.us-central1.run.app/api/v1/users",
+					"raw": "https://diego-3-2-1053705902466.us-central1.run.app/api/v1/users",
 					"protocol": "https",
 					"host": [
-						"spring-boot-rest-api-1060482787831",
+						"https://diego-3-2-1053705902466",
 						"us-central1",
 						"run",
 						"app"
@@ -41,10 +41,10 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "https://spring-boot-rest-api-1060482787831.us-central1.run.app/api/v1/users/2",
+					"raw": "https://diego-3-2-1053705902466.us-central1.run.app/api/v1/users/2",
 					"protocol": "https",
 					"host": [
-						"spring-boot-rest-api-1060482787831",
+						"https://diego-3-2-1053705902466",
 						"us-central1",
 						"run",
 						"app"
@@ -77,10 +77,10 @@
 					}
 				},
 				"url": {
-					"raw": "https://spring-boot-rest-api-1060482787831.us-central1.run.app/api/v1/users",
+					"raw": "https://diego-3-2-1053705902466.us-central1.run.app/api/v1/users",
 					"protocol": "https",
 					"host": [
-						"spring-boot-rest-api-1060482787831",
+						"https://diego-3-2-1053705902466",
 						"us-central1",
 						"run",
 						"app"
@@ -112,10 +112,10 @@
 					}
 				},
 				"url": {
-					"raw": "https://spring-boot-rest-api-1060482787831.us-central1.run.app/api/v1/users/1",
+					"raw": "https://diego-3-2-1053705902466.us-central1.run.app/api/v1/users/1",
 					"protocol": "https",
 					"host": [
-						"spring-boot-rest-api-1060482787831",
+						"https://diego-3-2-1053705902466",
 						"us-central1",
 						"run",
 						"app"
@@ -139,10 +139,10 @@
 				"method": "DELETE",
 				"header": [],
 				"url": {
-					"raw": "https://spring-boot-rest-api-1060482787831.us-central1.run.app/api/v1/users/2",
+					"raw": "https://diego-3-2-1053705902466.us-central1.run.app/api/v1/users/2",
 					"protocol": "https",
 					"host": [
-						"spring-boot-rest-api-1060482787831",
+						"https://diego-3-2-1053705902466",
 						"us-central1",
 						"run",
 						"app"
